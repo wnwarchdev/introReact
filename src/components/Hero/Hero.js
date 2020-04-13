@@ -4,17 +4,17 @@ import PropTypes from 'prop-types';
 import ReactHtmlParser from 'react-html-parser';
 
 const Hero = props => (
-      <header className={styles.component}>
-        <h2 className={styles.title}>{ReactHtmlParser(props.titleText)}</h2>
-        <img className={styles.image} src={props.imageHeader} />
-      </header>
-    )
+  <header className={styles.component}>
+    <h2 className={styles.title}>{ReactHtmlParser(props.titleText)}</h2>
+    <img className={styles.image} src={props.imageHeader} />
+  </header>
+);
 
 
-    Hero.propTypes = {
-      titleText: PropTypes.node,
-      imageHeader: PropTypes.node
-    };
+Hero.propTypes = {
+  titleText: PropTypes.node,
+  imageHeader: PropTypes.node,
+};
 
 
 export default Hero;
