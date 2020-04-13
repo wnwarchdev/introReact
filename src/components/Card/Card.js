@@ -11,7 +11,7 @@ class Card extends React.Component {
   render() {
     return (
       <section className={styles.component}>
-        <p>{this.props.title}</p>
+        <h4>{this.props.title}</h4>
       </section>
     )
   }
