@@ -1,11 +1,18 @@
 import React from 'react';
 import Container from '../Container/Container';
+import Hero from '../Hero/Hero';
+import { heroContents, faqContents } from '../../data/dataStore';
 
-const FAQ = () => (
-  <Container>
-    <h2>FAQ</h2>
-    <p>Lorem ipsum dolor sit amet, FAQ</p>
-  </Container>
-);
+class FAQ extends React.Component {
+
+  render() {
+    return (
+      <Container>
+        <Hero titleText={heroContents.title} imageHeader={heroContents.image}/>
+        <p>{faqContents.text}</p>
+      </Container>
+    );
+  }
+}
 
 export default FAQ;
