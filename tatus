@@ -1,0 +1,23 @@
+* [33mb33c52a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;31mheroku/master[m[33m)[m heroku WIP
+* [33m54d18f6[m Add procsile and modified package.json for heroku deploy
+* [33m26006f3[m Implemented search funtionality; modified files accordingly
+* [33m9e55e64[m Add file pack for search functionality
+* [33m1581758[m Reimplemented card adding functionality; Add cardsRedux.js, and modified existing files accordingly
+* [33md3be0ac[m Reimplemented column adding functionality; add new files and modified existing accordingly
+* [33mc38220a[m Finished migration to redux
+* [33mf142d3c[m Start migration to redux
+* [33m8ef5c38[m Install Redux and ReduxDevTools
+* [33m741244b[m husky test - no error
+* [33m577f4a9[m Add ESLint and husky
+* [33m13e7e0a[m Add new packages and modified files accordingly
+* [33mbcb91f9[m Changed <p> to <h4> at card
+* [33m3ff7649[m Add windowconfirm to Creator.js component on cancel
+* [33m78d4867[m Finish card.js component; modified column.js accordingly
+* [33mb252c02[m Add icons to columns, start card.js
+* [33mdc460f3[m Fix column bug
+* [33m1e0ece5[m WIP: Add new components, modified files accordingly, bug with Columns
+* [33mdba5633[m Install prop-types; Change image path to ue props; Add column.js and modified files accordingly
+* [33m6ec153d[m Add List and Hero component, modified App accordingly
+* [33mec38a9c[m install npm
+* [33ma08f391[m Init project
+* [33m30c62ea[m Initial commit
