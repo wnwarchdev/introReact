@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 import List from '../List/ListContainer.js';
 import Search from '../Search/SearchContainer.js';
 //import {listData, pageContents} from '../../data/dataStore';
-import Container from '../Container/Container';
+//import Container from '../Container/Container';
 
 
 
