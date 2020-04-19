@@ -9,6 +9,7 @@ class FAQ extends React.Component {
     return (
       <Container>
         <Hero titleText={heroContents.title} imageHeader={heroContents.image}/>
+        <h2>{faqContents.header}</h2>
         <p>{faqContents.text}</p>
       </Container>
     );

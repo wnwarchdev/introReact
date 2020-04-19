@@ -9,6 +9,7 @@ class Info extends React.Component {
     return (
       <Container>
         <Hero titleText={heroContents.title} imageHeader={heroContents.image}/>
+        <h2>{infoContents.header}</h2>
         <p>{infoContents.text}</p>
       </Container>
     );

@@ -29,10 +29,12 @@ export const headerContents = {
 };
 
 export const faqContents = {
+  header: 'FAQ:',
   text: 'Lorem ipsum dolor sit amet, FAQ',
 };
 
 export const infoContents = {
+  header: 'Info:',
   text: 'Lorem ipsum dolor sit amet, INFO',
 };
 
