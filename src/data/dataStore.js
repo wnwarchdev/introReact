@@ -106,7 +106,7 @@ const lists = [
   },
   {
     id: 'list-3',
-    title: 'Contact with either have been  <sup>unsuccessful</sup>',
+    title: 'Contact was <sup>unsuccessful</sup>',
     description: 'Seems your buddies are dead...',
     image: 'https://lh3.googleusercontent.com/proxy/5HRQdu0S2HI-EP3CbExTEfrymLBRq2su7Us4F-8xyeMm5pzXct3aDKOq9xyj9eY1m_XezXoodk-b6mbSOH6kuoRC1DKJqIC4DyO7Q61cR6UKlVgv_TfQ7g4x_r5RJxQ6x4eCfrU',
   },
@@ -132,19 +132,19 @@ const columns = [
     icon: 'user-plus',
   },
   {
-    id: 'column-4',
+    id: 'column-1',
     listId: 'list-2',
     title: 'Compound',
     icon: 'industry',
   },
   {
-    id: 'column-5',
+    id: 'column-2',
     listId: 'list-2',
     title: 'Parts',
     icon: 'space-shuttle',
   },
   {
-    id: 'column-6',
+    id: 'column-3',
     listId: 'list-2',
     title: 'Resources',
     icon: 'cog',
@@ -261,11 +261,6 @@ const cards = [
     title: 'Life support',
   },
   {
-    id: 'card-18',
-    columnId: 'column-6',
-    title: 'Equipment',
-  },
-  {
     id: 'card-19',
     columnId: 'column-7',
     title: 'Pistol',
@@ -311,22 +306,22 @@ const cards = [
     title: 'Imp',
   },
   {
-    id: 'card-27',
+    id: 'card-28',
     columnId: 'column-9',
     title: 'Pinky',
   },
   {
-    id: 'card-27',
+    id: 'card-29',
     columnId: 'column-9',
     title: 'Cacodemon',
   },
   {
-    id: 'card-27',
+    id: 'card-30',
     columnId: 'column-9',
     title: 'Mancubus',
   },
   {
-    id: 'card-27',
+    id: 'card-31',
     columnId: 'column-9',
     title: 'Icon of Sin',
   },

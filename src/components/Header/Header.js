@@ -4,6 +4,7 @@ import {NavLink, Link} from 'react-router-dom';
 import Container from '../Container/Container';
 import Icon from '../Icon/Icon';
 import { headerContents } from '../../data/dataStore';
+import Search from '../Search/Search';
 
 class Header extends React.Component {
 
@@ -22,6 +23,7 @@ class Header extends React.Component {
             </nav>
           </div>
         </Container>
+        < Search/> {/*add to header*/}
       </header>
     );
   }
