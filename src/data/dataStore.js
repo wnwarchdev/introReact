@@ -98,6 +98,18 @@ const lists = [
     description: 'Interesting things I want to check out!',
     image: 'http://uploads.kodilla.com/bootcamp/fer/11.react/space.png',
   },
+  {
+    id: 'list-2',
+    title: 'How to get to the <sup>moon!</sup>',
+    description: 'My plan of winning space race!',
+    image: 'https://i.ya-webdesign.com/images/cartoon-earth-png-6.png',
+  },
+  {
+    id: 'list-3',
+    title: 'Contact with either have been  <sup>unsuccessful</sup>',
+    description: 'Seems your buddies are dead...',
+    image: 'https://lh3.googleusercontent.com/proxy/5HRQdu0S2HI-EP3CbExTEfrymLBRq2su7Us4F-8xyeMm5pzXct3aDKOq9xyj9eY1m_XezXoodk-b6mbSOH6kuoRC1DKJqIC4DyO7Q61cR6UKlVgv_TfQ7g4x_r5RJxQ6x4eCfrU',
+  },
 ];
 
 const columns = [
