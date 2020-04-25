@@ -122,20 +122,50 @@ const columns = [
   {
     id: 'column-2',
     listId: 'list-1',
-    title: 'Movies',
-    icon: 'film',
+    title: 'Testing',
+    icon: 'microscope',
   },
   {
     id: 'column-3',
     listId: 'list-1',
-    title: 'Games',
-    icon: 'gamepad',
+    title: 'Staff',
+    icon: 'user-plus',
   },
   {
     id: 'column-4',
     listId: 'list-2',
-    title: 'Strange column',
-    icon: 'question',
+    title: 'Compound',
+    icon: 'industry',
+  },
+  {
+    id: 'column-5',
+    listId: 'list-2',
+    title: 'Parts',
+    icon: 'space-shuttle',
+  },
+  {
+    id: 'column-6',
+    listId: 'list-2',
+    title: 'Resources',
+    icon: 'cog',
+  },
+  {
+    id: 'column-7',
+    listId: 'list-3',
+    title: 'Weapon',
+    icon: 'crosshairs',
+  },
+  {
+    id: 'column-8',
+    listId: 'list-3',
+    title: 'Visited',
+    icon: 'globe',
+  },
+  {
+    id: 'column-9',
+    listId: 'list-3',
+    title: 'Defeated',
+    icon: 'trophy',
   },
 ];
 
@@ -143,32 +173,162 @@ const cards = [
   {
     id: 'card-1',
     columnId: 'column-1',
-    title: 'This Is Going to Hurt',
+    title: 'Elementary physics',
   },
   {
     id: 'card-2',
     columnId: 'column-1',
-    title: 'Interpreter of Maladies',
+    title: 'Aerodynamics Vol 1&2',
   },
   {
     id: 'card-3',
     columnId: 'column-2',
-    title: 'Harry Potter',
+    title: 'Thrust',
   },
   {
     id: 'card-4',
     columnId: 'column-2',
-    title: 'Star Wars',
+    title: 'Material Stress',
   },
   {
     id: 'card-5',
     columnId: 'column-3',
-    title: 'The Witcher',
+    title: 'Engineers',
   },
   {
     id: 'card-6',
     columnId: 'column-3',
-    title: 'Skyrim',
+    title: 'Pilots',
+  },
+  {
+    id: 'card-7',
+    columnId: 'column-4',
+    title: 'Launchpad',
+  },
+  {
+    id: 'card-8',
+    columnId: 'column-4',
+    title: 'Construction Yard',
+  },
+  {
+    id: 'card-9',
+    columnId: 'column-4',
+    title: 'Control Center',
+  },
+  {
+    id: 'card-10',
+    columnId: 'column-5',
+    title: 'Rocket Stage 01',
+  },
+  {
+    id: 'card-11',
+    columnId: 'column-5',
+    title: 'Rocket Stage 02',
+  },
+  {
+    id: 'card-12',
+    columnId: 'column-5',
+    title: 'Rocket Stage 03',
+  },
+  {
+    id: 'card-13',
+    columnId: 'column-5',
+    title: 'Command module',
+  },
+  {
+    id: 'card-14',
+    columnId: 'column-5',
+    title: 'Landing module',
+  },
+  {
+    id: 'card-15',
+    columnId: 'column-6',
+    title: 'Fuel',
+  },
+  {
+    id: 'card-16',
+    columnId: 'column-6',
+    title: 'Oxidizer',
+  },
+  {
+    id: 'card-17',
+    columnId: 'column-6',
+    title: 'Compressed air',
+  },
+  {
+    id: 'card-18',
+    columnId: 'column-6',
+    title: 'Life support',
+  },
+  {
+    id: 'card-18',
+    columnId: 'column-6',
+    title: 'Equipment',
+  },
+  {
+    id: 'card-19',
+    columnId: 'column-7',
+    title: 'Pistol',
+  },
+  {
+    id: 'card-20',
+    columnId: 'column-7',
+    title: 'Super shotgun',
+  },
+  {
+    id: 'card-21',
+    columnId: 'column-7',
+    title: 'Plasma rifle',
+  },
+  {
+    id: 'card-22',
+    columnId: 'column-7',
+    title: 'BFG 9000',
+  },
+  {
+    id: 'card-23',
+    columnId: 'column-8',
+    title: 'Mars',
+  },
+  {
+    id: 'card-24',
+    columnId: 'column-8',
+    title: 'Phobos',
+  },
+  {
+    id: 'card-25',
+    columnId: 'column-8',
+    title: 'Deimos',
+  },
+  {
+    id: 'card-26',
+    columnId: 'column-8',
+    title: 'Hell',
+  },
+  {
+    id: 'card-27',
+    columnId: 'column-9',
+    title: 'Imp',
+  },
+  {
+    id: 'card-27',
+    columnId: 'column-9',
+    title: 'Pinky',
+  },
+  {
+    id: 'card-27',
+    columnId: 'column-9',
+    title: 'Cacodemon',
+  },
+  {
+    id: 'card-27',
+    columnId: 'column-9',
+    title: 'Mancubus',
+  },
+  {
+    id: 'card-27',
+    columnId: 'column-9',
+    title: 'Icon of Sin',
   },
 ];
 
